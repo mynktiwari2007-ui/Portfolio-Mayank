@@ -5,6 +5,7 @@ A responsive portfolio website customized for Mayank Sharma and aligned with the
 ## Profile
 - Name: Mayank Sharma
 - GitHub: https://github.com/mynktiwari2007-ui
+- View My Profile: https://portfolio-generation-gamma.vercel.app/
 - Education and specialization: confirm the exact institution and course details before final submission.
 
 ## Technologies
